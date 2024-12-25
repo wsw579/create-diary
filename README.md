@@ -1,2 +1,1 @@
-# -
-c++ diary 
+Create a Diary Program Using C++ 
